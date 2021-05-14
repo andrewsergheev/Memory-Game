@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Andrei Sirghi (580275)</string>
+    <string name="title">Memory Game</string>
+    <!--Main Screen strings-->
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="about">About</string>
+    <string name="highScore">High Score</string>
+
+    <!--About-->
+    <string name="version">Memory Game - Version: Beta 0.9</string>
+    <string name="about_description"> How to play:</string>
+    <string name="about_description_1">1. Click the tiles to turn them over</string>
+    <string name="about_description_2">2. Match the set of images to win </string>
+    <string name="support"> Support: a.sirghi-2018@hull.ac.uk </string>
+
+    <!--Game description-->
+    <string name="start_game_description">Welcome to</string>
+    <string name="end_game_description">You need to find all the images. Each image has identical pair randomly allocated. You need to find them all! Good luck!</string>
+
+    <!--HighScoreTime-->
+    <string name="leaderboard">Leaderboard</string>
+    <string name="fewestTurns">Fewest Turns</string>
+    <string name="quickestTime">Quickest Time</string>
+    <string name="longestSequence">Longest Sequence</string>
+
+
+
+</resources>
