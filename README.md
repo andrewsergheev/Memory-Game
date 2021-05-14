@@ -1,4 +1,4 @@
-# Memory of...a Goldfish
+# Memory of a Goldfish
 University project and received 85% overall mark.
 ## Requirements
 ### General Features
