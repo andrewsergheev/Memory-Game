@@ -1,5 +1,5 @@
 # Memory of a Goldfish
-University project and received 85% overall mark.
+The project is an Android App of memory game that is written in Java. University project and received 85% overall mark.
 ## Requirements
 ### General Features
 The application should be able to handle normal mobile device events (such as receiving a phone call or having a poor network connection) in an appropriate manner. The application should function in at least two languages.  The application should function in different orientations, providing different layouts for different orientations when appropriate. Fixing the orientation will not meet this criteria.
